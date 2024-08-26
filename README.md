@@ -13,13 +13,14 @@
 
 - 👨‍💻 All of my projects are available at [Hasaan Ahmad](https://hasaanahmad.vercel.app)
 
+- 🚀 10k Followers on Instagram [@hasaandotdev](https://www.instagram.com/hasaandotdev)
+
 - 💬 Ask me about **ReactJS, NextJS, Java**
 
 - 📫 How to reach me **hasaanahmad10023@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.linkedin.com/ambry/?x-li-ambry-ep=AQKovCKiO5zYcAAAAYnlbesGKdQOACgLpXN1WPQCwNYdW_G_eMMn9PWoXPi2rQYjvQViFNu7UgIRbjCD6fUI2BD-B2YCzwcC2ZhyXsgUcwSULj9uPmPVlNcnua7yMNNXFLjVbYmuPOgX6C_pLBIKd_SpXk7e7ao-_QYUfNya-LMxCDhyQUyqV-fZ2t7MB5Nw_Hlt97Zb2dwzGsgcOcQ9LFBeC3eR8y4C9T8QsV7nomZPec8rLDvkY-zbDpIgBxInwaaAPdOrdy-Y0m8ZYq_NZ2que_ncO-btmjLW68SHKTkCH_wlDOgBFGZZq55nVoK_C1me0lHM4uXeBWoX5Q88L6orSV2jK4RZC0TC4s66LfgDCrZX6G6QWeyNmnyBPlDZnoczztHw8mAfdeU_CCFUX6k8eYxgMe_NSOI5QU755-PYkry-HVPzf-7UPfFOw1e6XwMMrwILzMbx4Zz92521npgn1d93SLogkYoGyUM8Vp23mn_aghC0nawsgNk_bGLe4yJ_C-v43I1dpROvjcZILvCmlpVLdha7adxytdnBw13Fz8HvqwwCLEh3jv0XLvbFvx75)
 
-- ⚡ Fun fact **No, I don't use dijstra to find path in real life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
