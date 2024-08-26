@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS, TailwindCSS, REST API.**
 
-- 👨‍💻 All of my projects are available at [[Hasaan Ahmad](https://hasaanahmad.vercel.app)]
+- 👨‍💻 All of my projects are available at [Hasaan Ahmad](https://hasaanahmad.vercel.app)
 
 - 💬 Ask me about **ReactJS, NextJS, Java**
 
