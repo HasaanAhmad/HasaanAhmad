@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/geniussyco" target="blank"><img src="https://img.shields.io/twitter/follow/geniussyco?logo=twitter&style=for-the-badge" alt="geniussyco" /></a> </p>
 
-- 🔭 I’m currently working on [Horizon Wear](https://horizon-wear.vercel.app/)
+- 🔭 I’m currently working on TAXSOFT (A Client Project for Tax Services)
 
 - 🌱 I’m currently learning **NextJS, TailwindCSS, REST API.**
 
-- 👨‍💻 All of my projects are available at [https://abstract-systems-prod.vercel.app/](https://abstract-systems-prod.vercel.app/)
+- 👨‍💻 All of my projects are available at [[Hasaan Ahmad](https://hasaanahmad.vercel.app)]
 
 - 💬 Ask me about **ReactJS, NextJS, Java**
 
