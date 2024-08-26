@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on TAXSOFT (A Client Project for Tax Services)
 
-- 🌱 I’m currently learning **NextJS, TailwindCSS, REST API.**
+- 🌱 My Current Tech Stack **NextJS, TailwindCSS, Prisma, Postgres and Shadcn.**
 
 - 👨‍💻 All of my projects are available at [Hasaan Ahmad](https://hasaanahmad.vercel.app)
 
